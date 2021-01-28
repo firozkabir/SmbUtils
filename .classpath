@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/smbj/asn-one-0.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/smbj/bcprov-jdk15on-1.60.jar"/>
+	<classpathentry kind="lib" path="lib/smbj/mbassador-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/smbj/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/smbj/smbj-0.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
